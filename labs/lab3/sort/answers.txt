@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: low time for sorted and high time for reversed.
+
+sort2 uses: merge sort
+
+How do you know?: low time for both sorted and reversed.
+
+sort3 uses: selection sort
+
+How do you know?: high time for both sorted and reversed.
